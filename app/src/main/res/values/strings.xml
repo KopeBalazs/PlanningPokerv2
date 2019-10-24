@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Planning Poker</string>
+    <string name="enterYourNameTxt">Please enter your nickname!</string>
+    <string name="planningPokerTxt">Planning Poker</string>
+    <string name="alreadyUsedTxt">*This nickname is already used. Please choose another!</string>
+
+    <string name="storyTxt">Story Text</string>
+    <string name="descriptionTxt">Description Text asdasdasd asdasdsad</string>
+    <string name="stopPollBtnText">Stop Poll</string>
+    <string name="statisticsActBtnTxt">Statistics</string>
+
+    <string name="card1">1</string>
+    <string name="card2">2</string>
+    <string name="card3">3</string>
+    <string name="card4">4</string>
+    <string name="card5">5</string>
+</resources>
